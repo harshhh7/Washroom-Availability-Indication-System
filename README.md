@@ -23,6 +23,8 @@ Here's the block diagram of the proposed model:
 
 As seen above, the project uses 2 microcontroller boards, Arduino UNO for reading the input from the installed Infrared sensors, and an ESP8266 module attached to the Arduino via serial communication to coneect the system to an online database (ThingSpeak).
 
+The status of the availability, as mentioned above can be displayed through a mobile application, I had used Android Studio to create 2 different apps, one for the client and one for the admin. However, this could vary based on your needs.
+
 # Components Required:
 
 Arduino UNO 
